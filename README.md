@@ -52,4 +52,10 @@ To configure the database connection, modify the `SQLConnection` file with your 
 ![image](https://github.com/KM9110/TWSIP-Voting_System-Task-3/assets/87354852/37d14333-9280-4cb0-87c4-f8773f701947)
 
 
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit pull requests or open issues. Whether it's improving the codebase, enhancing the user interface, or adding new features, your contributions will be appreciated.
+
+
+
 
