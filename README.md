@@ -17,11 +17,6 @@ Welcome to the Voting System with Database Connectivity repository! This project
 
 - **Role-Based Access Control**: Different user roles (e.g., admin, voter) with appropriate privileges for secure system operation.
 
-<<<<<<< Updated upstream
-- **Auditing and Logging**: Maintain a record of all activities within the system for transparency and accountability.
-
-=======
->>>>>>> Stashed changes
 - **User-Friendly Interface**: An intuitive and easy-to-navigate interface for both voters and administrators.
 
 ## Getting Started
@@ -36,7 +31,6 @@ To run this Voting System with Database Connectivity on your local machine, foll
 
 ## Database Configuration
 
-<<<<<<< Updated upstream
 To configure the database connection, modify the `SQLConnection` file with your database credentials and connection details.
 
 ## Screenshot
@@ -59,25 +53,6 @@ To configure the database connection, modify the `SQLConnection` file with your 
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to submit pull requests or open issues. Whether it's improving the codebase, enhancing the user interface, or adding new features, your contributions will be appreciated.
-=======
-To configure the database connection, modify the `database.properties` file with your database credentials and connection details.
-
-## **Screenshot** 
-
-## Login Panel - 
-
-## Admin Login - 
-
-## Voting Panel -
-
-## Voting Meter -
-
-## Result Panel -
-
-
-
-
->>>>>>> Stashed changes
 
 
 
