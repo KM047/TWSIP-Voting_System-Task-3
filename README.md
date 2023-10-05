@@ -7,8 +7,6 @@ Welcome to the Voting System with Database Connectivity repository! This project
 
 - **User Authentication**: Secure login system to ensure that only authorized users can cast their votes.
 
-- **Candidate Management**: Easily add, update, and remove candidates for various positions.
-
 - **Vote Casting**: Registered voters can cast their votes electronically.
 
 - **Vote Tallying**: Automatically tally and display the results in real-time.
