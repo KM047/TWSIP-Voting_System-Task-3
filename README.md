@@ -36,18 +36,22 @@ To configure the database connection, modify the `SQLConnection` file with your 
 ## Screenshot
 
 ## User Login -
-![image](https://github.com/KM9110/TWSIP-Voting_System-Task-3/assets/87354852/000c37fa-e401-4ca2-87fa-8e7734c178bd)
+![image](https://github.com/KM9110/TWSIP-Voting_System-Task-3/assets/87354852/0b1f48b0-e5d1-43da-a8c3-da0ec093349a)
+
 
 ## Admin Login - 
-![image](https://github.com/KM9110/TWSIP-Voting_System-Task-3/assets/87354852/c911d191-fcb7-4957-a26d-d8c6dc38d149)
+![image](https://github.com/KM9110/TWSIP-Voting_System-Task-3/assets/87354852/70e805f0-d383-483c-bd27-2f9bfc1d147a)
+
 
 ## Voting Panel - 
-![image](https://github.com/KM9110/TWSIP-Voting_System-Task-3/assets/87354852/90bad511-40bd-4207-9abf-e9abfac2a0e7)
+![image](https://github.com/KM9110/TWSIP-Voting_System-Task-3/assets/87354852/f051119b-614e-428d-ac0d-4ac408602d41)
+
 
 ## Result Panel - 
-![image](https://github.com/KM9110/TWSIP-Voting_System-Task-3/assets/87354852/de4e13a1-b4ba-465b-aca1-686706fb1085)
+![image](https://github.com/KM9110/TWSIP-Voting_System-Task-3/assets/87354852/d6375f41-51b1-4886-a28e-4aad9e09d15a)
 
-![image](https://github.com/KM9110/TWSIP-Voting_System-Task-3/assets/87354852/37d14333-9280-4cb0-87c4-f8773f701947)
+
+![image](https://github.com/KM9110/TWSIP-Voting_System-Task-3/assets/87354852/f22890d7-3235-4969-ba5f-d179cf062f99)
 
 
 ## Contributing
